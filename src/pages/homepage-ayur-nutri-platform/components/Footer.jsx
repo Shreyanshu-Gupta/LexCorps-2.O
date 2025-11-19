@@ -175,7 +175,7 @@ const Footer = () => {
         </div>
 
         {/* Certifications */}
-        <div className="mt-12 pt-8 border-t border-border">
+        {/* <div className="mt-12 pt-8 border-t border-border">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-6">
             <div>
               <h4 className="text-sm font-semibold text-text-primary mb-4">
@@ -207,7 +207,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
       {/* Bottom Bar */}
       <div className="border-t border-border">

@@ -523,7 +523,7 @@ const LiveDemo = () => {
           </div>
         </div>
 
-        {/* Demo CTA */}
+        {/* Demo CTA
         <div className="text-center mt-12">
           <p className="text-text-secondary mb-6">
             Ready to see the full platform in action?
@@ -547,7 +547,7 @@ const LiveDemo = () => {
               Watch Video Overview
             </Button>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );
